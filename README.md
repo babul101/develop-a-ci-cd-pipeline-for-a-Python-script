@@ -1,2 +1,1 @@
-# develop-a-ci-cd-pipeline-for-a-Python-script
-develop a ci cd pipeline for a Python script
+[![Python Pipeline](https://github.com/babul101/develop-a-ci-cd-pipeline-for-a-Python-script/actions/workflows/pipeline.yml/badge.svg)](https://github.com/babul101/develop-a-ci-cd-pipeline-for-a-Python-script/actions/workflows/pipeline.yml)
